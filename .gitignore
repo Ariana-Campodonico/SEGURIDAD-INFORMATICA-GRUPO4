@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+laboratorio_sqli.db
+database_seguridad.db
+*.sqlite
+*.sqlite3
+secret.key
